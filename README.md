@@ -39,12 +39,12 @@ Welcome to the Temperature Alert Agent Project! In this README, we'll guide you 
 1. Ensure you have a requirements.txt file with a list of project's dependencies, including any necessary libraries or packages.
 2. Install the required dependencies by running the following command:
 
-   bash
+   ```bash
       pip install -r requirements.txt
 
 ## Step 5: Run the Program
 
 1. Run the main.py file to execute your program. The program will prompt you to enter the latitude, longitude, minimum temperature, and maximum temperature for the region.
 
-   bash
+   ```bash
    python .\main.py 
