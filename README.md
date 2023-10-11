@@ -5,7 +5,7 @@ Welcome to the Temperature Alert Agent Project! In this README, we'll guide you 
 
 ## Step 1: Obtain Your Ambee API Key
 
-1. Visit the [Ambee website](https://www.ambee.com/) to obtain your API key.
+1. Visit the [Ambee website](https://api-dashboard.getambee.com/#/) to obtain your API key.
 2. Once you have your API key, copy it to your clipboard.
 
 ## Step 2: Create a .env File
