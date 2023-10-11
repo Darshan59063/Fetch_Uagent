@@ -17,9 +17,10 @@ Welcome to the fetch_temperature_agent project! In this README, we'll guide you 
    AMBEE_API_KEY="your_api_key"
 
 ## Step 3: Set Up a Virtual Environment
+
 1. Open your terminal and navigate to your project directory.
 2. Create a virtual environment by running the following command:
 
-```bash
-python -m venv venv
+   ```bash
+   python -m venv venv
 
