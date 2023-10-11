@@ -19,8 +19,16 @@ Welcome to the fetch_temperature_agent project! In this README, we'll guide you 
 ## Step 3: Set Up a Virtual Environment
 
 1. Open your terminal and navigate to your project directory.
-2. Create a virtual environment by running the following command:
+2. Create a virtual environment by running the following command in bash terminal:
 
    ```bash
    python -m venv venv
 
+3. Activate the virtual environment:
+   * On Windows:
+        ```bash
+        .\venv\Scripts\activate
+
+   * On macOS and Linux:
+        ```bash
+        source venv/bin/activate
