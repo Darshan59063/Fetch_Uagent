@@ -1,4 +1,4 @@
-# fetch_temperature_agent Project
+# Temperature Alert Agent
 
 Welcome to the fetch_temperature_agent project! In this README, we'll guide you through the process of setting up your Ambee API key and running the main.py file using a virtual environment. This project allows you to input latitude, longitude, minimum temperature, and maximum temperature for a region and then fetch the current temperature for that location.
 
@@ -32,3 +32,4 @@ Welcome to the fetch_temperature_agent project! In this README, we'll guide you 
    * On macOS and Linux:
         ```bash
         source venv/bin/activate
+4. Run the main.py file
