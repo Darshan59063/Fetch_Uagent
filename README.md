@@ -23,7 +23,7 @@ Welcome to the fetch_temperature_agent project! In this README, we'll guide you 
 
    ```bash
    python -m venv venv
-
+   
 3. Activate the virtual environment:
    * On Windows:
         ```bash
